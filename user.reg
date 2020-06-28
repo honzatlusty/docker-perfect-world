@@ -1,0 +1,169 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\User\\S-1-5-21-0-0-0-1000
+
+#arch=win64
+
+[Control Panel\\Accessibility\\Blind Access] 1592738353
+#time=1d647bdcb3d75ea
+"On"="0"
+
+[Control Panel\\Accessibility\\Keyboard Preference] 1592738353
+#time=1d647bdcb3d5fc4
+"On"="1"
+
+[Control Panel\\Accessibility\\ShowSounds] 1592738353
+#time=1d647bdcb3d7cc0
+"On"="0"
+
+[Control Panel\\Colors] 1592738353
+#time=1d647bdcb4396f0
+
+[Control Panel\\Desktop] 1592738353
+#time=1d647bdcb3d858a
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"DoubleClickHeight"="4"
+"DoubleClickWidth"="4"
+"DragFullWindows"="0"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000001
+"ForegroundFlashCount"=dword:00000003
+"ForegroundLockTimeout"=dword:00000000
+"IconTitleWrap"="1"
+"LowPowerActive"="0"
+"MenuShowDelay"="400"
+"UserPreferencesMask"=hex:30,00,00,80,10,00,00,00
+"Wallpaper"=""
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+
+[Control Panel\\Desktop\\WindowMetrics] 1592738353
+#time=1d647bdcb3d7f72
+"BorderWidth"="-15"
+"CaptionHeight"="-270"
+"CaptionWidth"="-270"
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuHeight"="-270"
+"MenuWidth"="-270"
+"PaddedBorderWidth"="0"
+"ScrollHeight"="-240"
+"ScrollWidth"="-240"
+"Shell Icon Size"="32"
+"SmCaptionHeight"="-225"
+"SmCaptionWidth"="-225"
+
+[Control Panel\\International] 1592738353
+#time=1d647bdcb2a9ee8
+"iCalendarType"="1"
+"iCountry"="1"
+"iCurrDigits"="2"
+"iCurrency"="0"
+"iDate"="0"
+"iDigits"="2"
+"iFirstDayOfWeek"="6"
+"iFirstWeekOfYear"="0"
+"iLDate"="0"
+"iLZero"="1"
+"iMeasure"="1"
+"iNegCurr"="0"
+"iNegNumber"="1"
+"iPaperSize"="1"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+"LC_CTYPE"="00000409"
+"LC_MEASUREMENT"="00000409"
+"LC_MONETARY"="00000409"
+"LC_NUMERIC"="00000409"
+"LC_PAPER"="00000409"
+"LC_TELEPHONE"="00000409"
+"LC_TIME"="00000409"
+"Locale"="00000409"
+"Numshape"="1"
+"s1159"="AM"
+"s2359"="PM"
+"sCountry"="United States"
+"sCurrency"="$"
+"sDate"="/"
+"sDecimal"="."
+"sGrouping"="3;0"
+"sLanguage"="ENU"
+"sList"=","
+"sLongDate"="dddd, MMMM dd, yyyy"
+"sMonDecimalSep"="."
+"sMonGrouping"="3;0"
+"sMonThousandSep"=","
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="M/d/yyyy"
+"sThousand"=","
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sYearMonth"="MMMM, yyyy"
+
+[Control Panel\\Keyboard] 1592738353
+#time=1d647bdcb3d6104
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[Control Panel\\Mouse] 1592738353
+#time=1d647bdcb3d815c
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[Control Panel\\Sound] 1592738353
+#time=1d647bdcb3d36ca
+"Beep"="Yes"
+
+[Keyboard Layout\\Preload] 1592738353
+#time=1d647bdcb4917ba
+"1"="00000409"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1592738353
+#time=1d647bdcb3da95c
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1592738353
+#time=1d647bdcb3daa7e
+
+[Software\\Wine\\Explorer] 1592738360
+#time=1d647bdcf761536
+"Desktop"="Default"
+
+[Software\\Wine\\Explorer\\Desktops] 1592738360
+#time=1d647bdcf761284
+"Default"="1900x1000"
+
+[Software\\Wine\\Fonts] 1592738435
+#time=1d647bdfbcbe12e
+"Codepages"="1252,437"
+"LogPixels"=dword:00000000
+
+[Software\\Wine\\Fonts\\External Fonts] 1592738435
+#time=1d647bdfbcbeff2
+"Marlett (TrueType)"="Z:\\usr\\lib\\wine\\..\\..\\share\\wine\\wine\\..\\fonts\\marlett.ttf"
+"Symbol (TrueType)"="Z:\\usr\\lib\\wine\\..\\..\\share\\wine\\wine\\..\\fonts\\symbol.ttf"
+"Tahoma (TrueType)"="Z:\\usr\\lib\\wine\\..\\..\\share\\wine\\wine\\..\\fonts\\tahoma.ttf"
+"Tahoma Bold (TrueType)"="Z:\\usr\\lib\\wine\\..\\..\\share\\wine\\wine\\..\\fonts\\tahomabd.ttf"
+"Wingdings (TrueType)"="Z:\\usr\\lib\\wine\\..\\..\\share\\wine\\wine\\..\\fonts\\wingding.ttf"
